@@ -1,0 +1,19 @@
+{
+  "name": "react-lists-and-details",
+  "version": "1.0.0",
+  "description": "this npm allows the user to easily add List and Detail components to a react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/licarpen/2020-04-17-personal-npm-package.git"
+  },
+  "author": "Lisa Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/licarpen/2020-04-17-personal-npm-package/issues"
+  },
+  "homepage": "https://github.com/licarpen/2020-04-17-personal-npm-package#readme"
+}
